@@ -1,0 +1,8 @@
+title: Satish's Web space
+description: "                                           .......Work hard..Play hard"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
